@@ -1,0 +1,18 @@
+[project]
+name = "nppe2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.9.0",
+    "datasets>=4.0.0",
+    "evaluate>=0.4.5",
+    "ipykernel>=6.30.0",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "peft>=0.16.0",
+    "pip>=25.1.1",
+    "torch>=2.7.1",
+    "transformers>=4.54.0",
+]
